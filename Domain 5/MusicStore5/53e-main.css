@@ -20,13 +20,19 @@ figcaption {
 }
 .sale {
     background-color: #AAEEFF;
+    
     font-style:italic;
     font-weight:bold;
 }
 .indent {
     padding:5em;
 }
-#sidenote {
+.leftindent{
+   text-indent: 5em; 
+   /*text-indent:5em;*/
+   padding-left:5em;
+}
+ #sidenote{
     background-color: #DDDDDD;
     display:inline;
     /*border-color:navy;
