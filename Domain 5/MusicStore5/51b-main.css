@@ -23,6 +23,8 @@ figcaption {
 }
 #sidenote {
     background-color: #DDDDDD;
+    display:inline;
+    font-weight:bold;
 }
 a {
     text-decoration: none;
