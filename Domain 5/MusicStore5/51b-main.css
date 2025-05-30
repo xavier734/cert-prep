@@ -6,12 +6,12 @@ p {
     color: navy;
 }
 
-/* The background color is extending across the page,
-    so I have commented it out for now. */
+
 figcaption {
     color: navy;
     font-weight: bold;
-    /*background-color: #AAEEFF;*/
+    background-color: #AAEEFF;
+    display:inline;
 }
 .sale {
     font-weight: bold;
