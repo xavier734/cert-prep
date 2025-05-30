@@ -50,6 +50,10 @@ a:hover {
     text-decoration: double;
     font-weight: bold;
     font-family: 'Palatino Linotype','Times New Roman', serif;
+   td.vbot{
+    vertical-align: bottom;
+    height: 30px;
+   }
 }
 td.vbot {
     vertical-align:bottom;
